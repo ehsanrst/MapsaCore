@@ -1,0 +1,19 @@
+# Eclipse
+CoreBanking/.classpath
+CoreBanking/.project
+CoreBanking/.settings/
+
+# Intellij
+CoreBanking/.idea/
+CoreBanking/*.iml
+CoreBanking/*.iws
+
+# Mac
+CoreBanking/.DS_Store
+
+# Maven
+CoreBanking/log/
+CoreBanking/target/
+
+.idea/*
+CoreBanking/data/*
